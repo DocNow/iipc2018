@@ -1,1 +1,1 @@
-Slides about diffengine.
+Slides for IIPC 2018.
